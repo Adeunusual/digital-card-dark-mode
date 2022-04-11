@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-card-dark-mode/static/css/main.350b2cef.css",
+    "main.js": "/digital-card-dark-mode/static/js/main.0e626c5c.js",
+    "static/media/white-bg-designify.png": "/digital-card-dark-mode/static/media/white-bg-designify.6c839b0d5ebf6c831539.png",
+    "index.html": "/digital-card-dark-mode/index.html",
+    "main.350b2cef.css.map": "/digital-card-dark-mode/static/css/main.350b2cef.css.map",
+    "main.0e626c5c.js.map": "/digital-card-dark-mode/static/js/main.0e626c5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350b2cef.css",
+    "static/js/main.0e626c5c.js"
+  ]
+}
